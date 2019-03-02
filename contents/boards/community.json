@@ -1,0 +1,8 @@
+{
+  "attributes": {
+    "title": "Community"
+  },
+  "relationships": {
+    "articles": { "data": [] }
+  }
+}
