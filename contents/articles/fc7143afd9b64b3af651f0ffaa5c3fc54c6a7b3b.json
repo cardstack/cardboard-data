@@ -5,10 +5,10 @@
     "subhead": "this should work",
     "description": "oh yes, it does work. we are creating articles!",
     "body": {
-      "version": "0.3.1",
       "atoms": [],
       "cards": [],
       "markups": [],
+      "version": "0.3.1",
       "sections": [
         [
           1,
@@ -61,7 +61,7 @@
       ]
     },
     "created-date": "2019-03-13T03:46:20.762Z",
-    "published-date": null
+    "published-date": "2019-03-13T03:53:39.574Z"
   },
   "relationships": {
     "cover-image": {
@@ -91,7 +91,7 @@
     "readers": {
       "data": {
         "type": "groups",
-        "id": "github-writers"
+        "id": "everyone"
       }
     }
   }
