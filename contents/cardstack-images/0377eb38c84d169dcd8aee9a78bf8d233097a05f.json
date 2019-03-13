@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "alt-text": null
+  },
+  "relationships": {
+    "file": {
+      "data": {
+        "type": "cardstack-files",
+        "id": "399b6558-4576-48b7-8721-e479d875a51e.png"
+      }
+    }
+  }
+}
