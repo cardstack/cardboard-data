@@ -5,10 +5,10 @@
     "subhead": "this should work",
     "description": "oh yes, it does work. we are creating articles!",
     "body": {
+      "version": "0.3.1",
       "atoms": [],
       "cards": [],
       "markups": [],
-      "version": "0.3.1",
       "sections": [
         [
           1,
@@ -24,7 +24,7 @@
         ],
         [
           1,
-          "p",
+          "h2",
           [
             [
               0,
@@ -36,7 +36,7 @@
         ],
         [
           1,
-          "p",
+          "h3",
           [
             [
               0,
@@ -48,7 +48,7 @@
         ],
         [
           1,
-          "p",
+          "blockquote",
           [
             [
               0,
@@ -67,7 +67,7 @@
     "cover-image": {
       "data": {
         "type": "cardstack-images",
-        "id": "4e31b948bb3edf96dc8ff991af09e028af4c2075"
+        "id": "b9d1465e29d683256df7308218781d9ddc6a4f07"
       }
     },
     "author": {
@@ -85,7 +85,7 @@
     "theme": {
       "data": {
         "type": "themes",
-        "id": "modern"
+        "id": "dark"
       }
     },
     "readers": {
