@@ -6,7 +6,7 @@
     "subhead": null,
     "description": null,
     "body": null,
-    "published-date": "2019-03-13T14:54:40.022Z"
+    "published-date": null
   },
   "relationships": {
     "cover-image": {
@@ -30,7 +30,7 @@
     "readers": {
       "data": {
         "type": "groups",
-        "id": "everyone"
+        "id": "github-writers"
       }
     },
     "category": {
