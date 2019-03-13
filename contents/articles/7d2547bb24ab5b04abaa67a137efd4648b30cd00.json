@@ -1,0 +1,40 @@
+{
+  "attributes": {
+    "slug": "dog",
+    "title": "Why Doors?",
+    "created-date": "2019-03-13T14:49:22.335Z",
+    "subhead": null,
+    "description": null,
+    "body": null,
+    "published-date": null
+  },
+  "relationships": {
+    "cover-image": {
+      "data": {
+        "type": "cardstack-images",
+        "id": "bdddfbeb2f54b2582a4b3ff15c57053b7740f407"
+      }
+    },
+    "author": {
+      "data": {
+        "type": "github-users",
+        "id": "habdelra"
+      }
+    },
+    "theme": {
+      "data": {
+        "type": "themes",
+        "id": "modern"
+      }
+    },
+    "readers": {
+      "data": {
+        "type": "groups",
+        "id": "github-writers"
+      }
+    },
+    "category": {
+      "data": null
+    }
+  }
+}
