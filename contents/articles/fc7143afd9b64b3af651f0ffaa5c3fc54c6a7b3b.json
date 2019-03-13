@@ -1,0 +1,98 @@
+{
+  "attributes": {
+    "slug": "testing-testing-1-2-3",
+    "title": "Testing the article creation",
+    "subhead": "this should work",
+    "description": "oh yes, it does work. we are creating articles!",
+    "body": {
+      "version": "0.3.1",
+      "atoms": [],
+      "cards": [],
+      "markups": [],
+      "sections": [
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Once upon a time there was a mobiledoc editor. "
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "It supported some features, and didn't support other. "
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "And it had some bugs. "
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "And still has"
+            ]
+          ]
+        ]
+      ]
+    },
+    "created-date": "2019-03-13T03:46:20.762Z",
+    "published-date": null
+  },
+  "relationships": {
+    "cover-image": {
+      "data": {
+        "type": "cardstack-images",
+        "id": "4e31b948bb3edf96dc8ff991af09e028af4c2075"
+      }
+    },
+    "author": {
+      "data": {
+        "type": "github-users",
+        "id": "dnaidionov"
+      }
+    },
+    "category": {
+      "data": {
+        "type": "categories",
+        "id": "ember"
+      }
+    },
+    "theme": {
+      "data": {
+        "type": "themes",
+        "id": "modern"
+      }
+    },
+    "readers": {
+      "data": {
+        "type": "groups",
+        "id": "github-writers"
+      }
+    }
+  }
+}
