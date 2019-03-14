@@ -3,10 +3,10 @@
     "slug": "snow-fever",
     "title": "Snow Fever: Ultimate Fun for Snowboarders, Skiers and all Winter Enthusiasts",
     "body": {
-      "version": "0.3.1",
       "atoms": [],
       "cards": [],
       "markups": [],
+      "version": "0.3.1",
       "sections": [
         [
           1,
@@ -101,9 +101,9 @@
       ]
     },
     "created-date": "2019-03-14T16:28:12.825Z",
-    "subhead": null,
+    "subhead": "",
     "description": null,
-    "published-date": null
+    "published-date": "2019-03-14T17:07:28.268Z"
   },
   "relationships": {
     "cover-image": {
@@ -127,7 +127,7 @@
     "readers": {
       "data": {
         "type": "groups",
-        "id": "github-writers"
+        "id": "everyone"
       }
     },
     "category": {
