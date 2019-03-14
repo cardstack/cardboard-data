@@ -103,7 +103,7 @@
     "created-date": "2019-03-14T16:28:12.825Z",
     "subhead": "",
     "description": null,
-    "published-date": "2019-03-14T17:07:28.268Z"
+    "published-date": null
   },
   "relationships": {
     "cover-image": {
@@ -127,7 +127,7 @@
     "readers": {
       "data": {
         "type": "groups",
-        "id": "everyone"
+        "id": "github-writers"
       }
     },
     "category": {
