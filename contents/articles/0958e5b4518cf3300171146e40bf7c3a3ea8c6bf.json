@@ -1,0 +1,37 @@
+{
+  "attributes": {
+    "slug": "awe",
+    "title": "Test",
+    "subhead": "123",
+    "description": "123",
+    "created-date": "2019-03-14T14:37:31.705Z",
+    "body": null,
+    "published-date": null
+  },
+  "relationships": {
+    "author": {
+      "data": {
+        "type": "github-users",
+        "id": "hexixiaozilong"
+      }
+    },
+    "theme": {
+      "data": {
+        "type": "themes",
+        "id": "sharp"
+      }
+    },
+    "readers": {
+      "data": {
+        "type": "groups",
+        "id": "github-writers"
+      }
+    },
+    "cover-image": {
+      "data": null
+    },
+    "category": {
+      "data": null
+    }
+  }
+}
