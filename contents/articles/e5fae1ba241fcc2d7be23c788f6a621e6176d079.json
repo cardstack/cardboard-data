@@ -5,7 +5,18 @@
     "body": {
       "version": "0.3.1",
       "atoms": [],
-      "cards": [],
+      "cards": [
+        [
+          "cs-mobiledoc-card",
+          {
+            "card": {
+              "id": "c913096a4cfbd378f064c6efa3dc210a1ae56886",
+              "type": "cardstack-image"
+            },
+            "caption": "Ready to hit the slope? Go find yourself a snowboard (or build yourself one) and enjoy!"
+          }
+        ]
+      ],
       "markups": [],
       "sections": [
         [
@@ -43,6 +54,10 @@
               "The wondrous backdrop of white summits in the still winter air has fascinated sports enthusiasts for years. In fact, even though nobody really knows where this hidden place is to be found, there are people who claim that snowboarding was invented in this very location. Legend says, several decades ago, a particularly inventive man linked a pair of skis together to create a surfboard-like contraption. Combining the ideas of snow and surfing, he basically built a snurfboard that became extremely famous very soon. Within weeks, snurfers all over the world began to manufacture their own snurfing equipment and found their way here to glide down the (until that point) untouched mountains in the snow. There may not have been slopes or lifts or anything but snow, but people truly loved this place. This is where all the craziness allegedly began—in the snow desert that is nowhere to be found. "
             ]
           ]
+        ],
+        [
+          10,
+          0
         ],
         [
           1,
