@@ -5,7 +5,45 @@
     "created-date": "2019-03-15T04:37:19.011Z",
     "subhead": null,
     "description": null,
-    "body": null,
+    "body": {
+      "version": "0.3.1",
+      "atoms": [],
+      "cards": [
+        [
+          "cs-mobiledoc-card",
+          {
+            "card": {
+              "id": "bdddfbeb2f54b2582a4b3ff15c57053b7740f407",
+              "type": "cardstack-image"
+            }
+          }
+        ]
+      ],
+      "markups": [],
+      "sections": [
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Why are there doors?"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          []
+        ],
+        [
+          10,
+          0
+        ]
+      ]
+    },
     "published-date": null
   },
   "relationships": {
