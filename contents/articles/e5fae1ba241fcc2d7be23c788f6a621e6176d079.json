@@ -143,6 +143,11 @@
         [
           1,
           "p",
+          []
+        ],
+        [
+          1,
+          "p",
           [
             [
               0,
@@ -257,7 +262,7 @@
     "created-date": "2019-03-14T16:28:12.825Z",
     "subhead": "",
     "description": null,
-    "published-date": null
+    "published-date": "2019-03-15T19:08:30.080Z"
   },
   "relationships": {
     "cover-image": {
@@ -275,13 +280,13 @@
     "theme": {
       "data": {
         "type": "themes",
-        "id": "sharp"
+        "id": "modern"
       }
     },
     "readers": {
       "data": {
         "type": "groups",
-        "id": "github-writers"
+        "id": "everyone"
       }
     },
     "category": {
