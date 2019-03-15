@@ -1,0 +1,78 @@
+{
+  "attributes": {
+    "slug": "doors",
+    "title": "Why Doors?",
+    "created-date": "2019-03-15T04:37:19.011Z",
+    "subhead": "we have squash too",
+    "description": null,
+    "body": {
+      "atoms": [],
+      "cards": [
+        [
+          "cs-mobiledoc-card",
+          {
+            "card": {
+              "id": "bdddfbeb2f54b2582a4b3ff15c57053b7740f407",
+              "type": "cardstack-image"
+            }
+          }
+        ]
+      ],
+      "markups": [],
+      "version": "0.3.1",
+      "sections": [
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Why are there doors?"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          []
+        ],
+        [
+          10,
+          0
+        ]
+      ]
+    },
+    "published-date": null
+  },
+  "relationships": {
+    "cover-image": {
+      "data": {
+        "type": "cardstack-images",
+        "id": "0f2978d770fa6a491783e053458242b7561c4af5"
+      }
+    },
+    "author": {
+      "data": {
+        "type": "github-users",
+        "id": "habdelra"
+      }
+    },
+    "theme": {
+      "data": {
+        "type": "themes",
+        "id": "sharp"
+      }
+    },
+    "readers": {
+      "data": {
+        "type": "groups",
+        "id": "github-writers"
+      }
+    },
+    "category": {
+      "data": null
+    }
+  }
+}
