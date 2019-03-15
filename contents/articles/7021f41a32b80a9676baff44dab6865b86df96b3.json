@@ -3,10 +3,9 @@
     "slug": "doors",
     "title": "Why Doors?",
     "created-date": "2019-03-15T04:37:19.011Z",
-    "subhead": null,
+    "subhead": "we have squash too",
     "description": null,
     "body": {
-      "version": "0.3.1",
       "atoms": [],
       "cards": [
         [
@@ -20,6 +19,7 @@
         ]
       ],
       "markups": [],
+      "version": "0.3.1",
       "sections": [
         [
           1,
