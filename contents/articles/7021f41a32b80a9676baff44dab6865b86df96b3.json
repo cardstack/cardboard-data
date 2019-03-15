@@ -1,0 +1,40 @@
+{
+  "attributes": {
+    "slug": "doors",
+    "title": "Why Doors?",
+    "created-date": "2019-03-15T04:37:19.011Z",
+    "subhead": null,
+    "description": null,
+    "body": null,
+    "published-date": null
+  },
+  "relationships": {
+    "cover-image": {
+      "data": {
+        "type": "cardstack-images",
+        "id": "0f2978d770fa6a491783e053458242b7561c4af5"
+      }
+    },
+    "author": {
+      "data": {
+        "type": "github-users",
+        "id": "habdelra"
+      }
+    },
+    "theme": {
+      "data": {
+        "type": "themes",
+        "id": "sharp"
+      }
+    },
+    "readers": {
+      "data": {
+        "type": "groups",
+        "id": "github-writers"
+      }
+    },
+    "category": {
+      "data": null
+    }
+  }
+}
