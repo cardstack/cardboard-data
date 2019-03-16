@@ -5,21 +5,28 @@
     "body": {
       "version": "0.3.1",
       "atoms": [],
-      "cards": [],
+      "cards": [
+        [
+          "cs-mobiledoc-card",
+          {
+            "card": {
+              "id": "8dd9fb7a3698e2e3faa62ca2416a6b16c47fc47a",
+              "type": "cardstack-image"
+            }
+          }
+        ],
+        [
+          "cs-mobiledoc-card",
+          {
+            "card": {
+              "id": "c913096a4cfbd378f064c6efa3dc210a1ae56886",
+              "type": "cardstack-image"
+            }
+          }
+        ]
+      ],
       "markups": [],
       "sections": [
-        [
-          1,
-          "h2",
-          [
-            [
-              0,
-              [],
-              0,
-              "Secret vacation location: Enjoy some peace and quiet, have fun and be one with nature."
-            ]
-          ]
-        ],
         [
           1,
           "p",
@@ -43,6 +50,15 @@
               "The wondrous backdrop of white summits in the still winter air has fascinated sports enthusiasts for years. In fact, even though nobody really knows where this hidden place is to be found, there are people who claim that snowboarding was invented in this very location. Legend says, several decades ago, a particularly inventive man linked a pair of skis together to create a surfboard-like contraption. Combining the ideas of snow and surfing, he basically built a snurfboard that became extremely famous very soon. Within weeks, snurfers all over the world began to manufacture their own snurfing equipment and found their way here to glide down the (until that point) untouched mountains in the snow. There may not have been slopes or lifts or anything but snow, but people truly loved this place. This is where all the craziness allegedly began—in the snow desert that is nowhere to be found."
             ]
           ]
+        ],
+        [
+          1,
+          "p",
+          []
+        ],
+        [
+          10,
+          0
         ],
         [
           1,
@@ -115,6 +131,15 @@
               "Plus, there is plenty more fun to be had. These mountains offer a natural toboggan run that leads from the top of the mountain through the woods all the way down to the valley. Be sure to try it out, but it is highly recommended that you wear snow goggles and extremely resilient snow boots; otherwise, you will very likely find yourself drenched, frozen and unable to walk or see for at least two hours after you’ve finally crossed the finish line, preferably in one piece."
             ]
           ]
+        ],
+        [
+          1,
+          "p",
+          []
+        ],
+        [
+          10,
+          1
         ],
         [
           1,
@@ -324,8 +349,8 @@
     },
     "created-date": "2019-03-13T15:11:57.328Z",
     "subhead": null,
-    "description": null,
-    "published-date": null
+    "description": "Secret vacation location: Enjoy some peace and quiet, have fun and be one with nature.",
+    "published-date": "2019-03-16T01:00:15.603Z"
   },
   "relationships": {
     "author": {
@@ -343,11 +368,14 @@
     "readers": {
       "data": {
         "type": "groups",
-        "id": "github-writers"
+        "id": "everyone"
       }
     },
     "cover-image": {
-      "data": null
+      "data": {
+        "type": "cardstack-images",
+        "id": "465735744c122f5bfbe87e7c9211636b4a00f50e"
+      }
     },
     "category": {
       "data": null
