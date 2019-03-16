@@ -3,6 +3,13 @@
     "title": "Community"
   },
   "relationships": {
-    "articles": { "data": [] }
+    "articles": {
+      "data": [
+        {
+          "type": "articles",
+          "id": "58cd5d0775c91b03d737b5bf28f3c5d920c50a49"
+        }
+      ]
+    }
   }
 }
