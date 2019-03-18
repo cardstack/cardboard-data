@@ -1,0 +1,796 @@
+{
+  "attributes": {
+    "slug": "cards-at-rest-cards-in-motion",
+    "title": "Cards at Rest, Cards in Motion",
+    "subhead": "How cards carry truth around the Web",
+    "description": "A quick intro to some of the organization and movement principles that create order in the Cardstack Ecosystem",
+    "body": {
+      "version": "0.3.1",
+      "atoms": [],
+      "cards": [],
+      "markups": [
+        [
+          "a",
+          [
+            "href",
+            "https://medium.com/cardstack/rethinking-the-web-3-0-experience-9b5fe508aa77"
+          ]
+        ],
+        [
+          "a",
+          [
+            "href",
+            "https://medium.com/cardstack/developer-blog-card-ui-da16a21e1908"
+          ]
+        ],
+        [
+          "strong"
+        ],
+        [
+          "a",
+          [
+            "href",
+            "https://www.forbes.com/richest-in-tech/list/",
+            "rel",
+            "nofollow noopener"
+          ]
+        ],
+        [
+          "a",
+          [
+            "href",
+            "https://vimeo.com/221782128",
+            "rel",
+            "noopener nofollow"
+          ]
+        ],
+        [
+          "a",
+          [
+            "href",
+            "https://youtu.be/EjJ7jgC1iuk",
+            "rel",
+            "nofollow noopener"
+          ]
+        ],
+        [
+          "a",
+          [
+            "href",
+            "https://youtu.be/lHNEG2PYky0?t=595",
+            "rel",
+            "nofollow noopener"
+          ]
+        ],
+        [
+          "a",
+          [
+            "href",
+            "https://github.com/cardstack/cardstack",
+            "rel",
+            "nofollow noopener"
+          ]
+        ],
+        [
+          "a",
+          [
+            "href",
+            "https://youtu.be/lHNEG2PYky0?t=1151",
+            "rel",
+            "nofollow noopener"
+          ]
+        ],
+        [
+          "a",
+          [
+            "href",
+            "https://www.financedigest.com/cardstack-and-dotbc-partnership-tackles-murky-world-of-music-rights.html",
+            "rel",
+            "nofollow noopener"
+          ]
+        ],
+        [
+          "a",
+          [
+            "href",
+            "https://www.cryptokitties.co/",
+            "rel",
+            "nofollow noopener"
+          ]
+        ]
+      ],
+      "sections": [
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Last time, we described our vision of a "
+            ],
+            [
+              0,
+              [
+                0
+              ],
+              1,
+              "Web 3.0"
+            ],
+            [
+              0,
+              [],
+              0,
+              " made up of cards: universal composable experience objects representing content data that can function alone or combine with other objects directly. These "
+            ],
+            [
+              0,
+              [
+                1
+              ],
+              1,
+              "cards"
+            ],
+            [
+              0,
+              [],
+              0,
+              " can can be linked, addressed, referenced, embedded, saved, anywhere."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "In Cardstack, as you interact with different card-based systems, you’re collecting a library of cards, representing all the things you’ve seen, like a camera roll on a smartphone. This allows you to reuse information and quickly access previous work."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "But cards aren’t just reference material: they’re powerful building blocks for the Web. We’ve designed cards to be "
+            ],
+            [
+              0,
+              [
+                2,
+                2
+              ],
+              2,
+              "carriers of truth"
+            ],
+            [
+              0,
+              [],
+              0,
+              " that can assemble with other cards, from multiple participants, to create "
+            ],
+            [
+              0,
+              [
+                2,
+                2
+              ],
+              2,
+              "larger experiences that can be shared and reused"
+            ],
+            [
+              0,
+              [],
+              0,
+              ". That’s how we get from today’s centralized Web, "
+            ],
+            [
+              0,
+              [
+                3
+              ],
+              1,
+              "ruled by overlords"
+            ],
+            [
+              0,
+              [],
+              0,
+              ", to a Web that reflects the passion of many people working together."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Here’s a quick intro to some of the "
+            ],
+            [
+              0,
+              [
+                4
+              ],
+              1,
+              "organization and movement principles"
+            ],
+            [
+              0,
+              [],
+              0,
+              " that create order in the Cardstack Ecosystem."
+            ]
+          ]
+        ],
+        [
+          1,
+          "h3",
+          [
+            [
+              0,
+              [],
+              0,
+              "Deck: Gather Cards"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "When building a "
+            ],
+            [
+              0,
+              [
+                5
+              ],
+              1,
+              "card-based system"
+            ],
+            [
+              0,
+              [],
+              0,
+              ", like a website or an application, you’ll start by creating a "
+            ],
+            [
+              0,
+              [
+                2,
+                2
+              ],
+              2,
+              "Card Deck"
+            ],
+            [
+              0,
+              [],
+              0,
+              ". A Deck has a clear owner and in this sense is a “"
+            ],
+            [
+              0,
+              [
+                2,
+                2
+              ],
+              2,
+              "local"
+            ],
+            [
+              0,
+              [],
+              0,
+              "” source of truth."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "You build a Deck by importing data into your instance of Cardstack. As you do so, Cardstack’s Deck data model can suggest content types for your data, and give you templates for cards, or “card types,” that can represent your content. You can reuse card types, download them, or build your own."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "This is a breakthrough in the way we think about "
+            ],
+            [
+              0,
+              [
+                6
+              ],
+              1,
+              "website composition"
+            ],
+            [
+              0,
+              [],
+              0,
+              ", combining the power of manual line-by-line coding, with the ease of something like simple drag-and-drop."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "The first Deck we’ve built is called cardstack/deck, a private GitHub repository soon to be open-sourced. So far we’ve built 27 card types representing what would be the official website for the Cardstack community, and in each one of those 27 cards we have templates and JavaScript JSON:API."
+            ]
+          ]
+        ],
+        [
+          1,
+          "h3",
+          [
+            [
+              0,
+              [],
+              0,
+              "Card Space: Arrange Cards"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "A "
+            ],
+            [
+              0,
+              [
+                2,
+                2
+              ],
+              2,
+              "Card Space"
+            ],
+            [
+              0,
+              [],
+              0,
+              " is the real estate where cards from Decks are arranged. When a card is in a Space, it is “at rest” — behaving like an embedded widget."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "A Space can be built from cards in a single Deck, or include cards from multiple Decks, including Decks with different owners. Spaces themselves can be minimized and act as cards. That means you can embed Spaces within Spaces, Spaces within cards, cards within Spaces. The general idea is that a Space is designed to represent a "
+            ],
+            [
+              0,
+              [
+                2,
+                2
+              ],
+              2,
+              "collective truth"
+            ],
+            [
+              0,
+              [],
+              0,
+              ", built from content owned by one or more participants."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Spaces can be public, private or somewhere in between. To use a loose Web 2.0 analogy, if the Facebook web app is the “Deck,” then a Facebook profile, or the News Feed, would be examples of “Spaces”: where contributions from multiple parties come together to form a shared understanding."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Cardstack represents an evolution from Web 2.0 because cards are not tied to their Spaces, and Spaces do not change the ownership of cards. Cards that exist in Spaces can simultaneously exist in other Spaces — and still belong to their Decks and their owners. This is why we refer to cards as carriers of truth: their original integrity and ownership is not compromised as they move through the Web and perform different roles within different spaces."
+            ]
+          ]
+        ],
+        [
+          1,
+          "h3",
+          [
+            [
+              0,
+              [],
+              0,
+              "Card Flow: Move Cards"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "How do cards get from one place to another?"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "If a card is “in motion,” for example, being submitted for review or getting shared with others, it enters what we call "
+            ],
+            [
+              0,
+              [
+                2,
+                2
+              ],
+              2,
+              "Card Flow"
+            ],
+            [
+              0,
+              [],
+              0,
+              ": a state of moving in and out of Decks and Spaces. The Cardstack Framework comes with out-of-the-box tools to conduct Card Flow in a way that’ll be familiar to anyone who has used a messenger app, or a workplace collaboration tool like Slack."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "If a card exists in your library, or in a Deck or a Space you control, you can use Card Flow to submit it for review, place it in another Space, share it with a friend, and so on."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Card Flow is powered by "
+            ],
+            [
+              0,
+              [
+                7
+              ],
+              1,
+              "Git"
+            ],
+            [
+              0,
+              [],
+              0,
+              ". This is hidden from the user: the goal of Card Flow UI is to make collaboration as easy and accessible as possible. But beneath the surface, you are merging, proposing and committing changes using a powerful distributed version control system developers use every day. In short: making open-source contributions."
+            ]
+          ]
+        ],
+        [
+          1,
+          "h3",
+          [
+            [
+              0,
+              [],
+              0,
+              "4 Edges: Edit Cards"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Your Card Deck, Card Space, and Card Flow let you generate, arrange and move cards. Now, let’s say you want to edit cards directly."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [
+                8
+              ],
+              1,
+              "4 Edges"
+            ],
+            [
+              0,
+              [],
+              0,
+              " gives you card editing tools, with panels you can pull in or retract from the perimeter of the card, similar to Adobe Photoshop."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Each edge provides a different capability: on your left edge you have all your different networks that are feeding in information; on the right you have your configuration panel, where you can tweak every element of the card; on the bottom you have your libraries; and on the top you have environments (where are you going to publish your work, etc.)"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "All 4 Edges are shared across all card-based applications, so that once you learn how to use the properties panel for one type of card, it’s the same whether you’re configuring a piece of content, a data source or configuring your wallet."
+            ]
+          ]
+        ],
+        [
+          1,
+          "h3",
+          [
+            [
+              0,
+              [],
+              0,
+              "Card Physics in Action"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "If a card is an individual carrier of truth, then Deck, Space, Flow, and 4 Edges are states of organization and customization that work together to create a universe where cards can assemble into shared understandings. Our design system’s composability allows these understandings to be take on just about any form."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "We are currently developing the next use case of the Cardstack Framework: a "
+            ],
+            [
+              0,
+              [
+                9
+              ],
+              1,
+              "media registry"
+            ],
+            [
+              0,
+              [],
+              0,
+              " that uses 4 Edges principles combined with Card Space, Card Flow to build a blockchain-backed platform that gives publishers, industry professionals, and artists a way to collaborate on metadata and come to consensus on ownership rights."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Card Space allows users to switch between local and collective views of song files, metadata, user profiles, agreements, and so on. Card Flow enables version-controlled collaboration: an artist’s manager submits a license, changes are suggested by lawyers, the final contract is approved or rejected by the label, before payment is fairly allocated to contributors."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "These same principles can be used in a variety of use cases. For example:"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [
+                2,
+                2
+              ],
+              2,
+              "Decentralized organizations"
+            ],
+            [
+              0,
+              [],
+              0,
+              " — First-gen decentralized autonomous organizations (DAOs) are theoretically interesting, but are hardly usable for day-to-day work. Cardstack’s design system maps to the underlying concepts of DAOs: letting you use Decks, Spaces, and Flow to assemble content and value shared by multiple parties into an interaction space that does not belong just to one individual."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [
+                2,
+                2
+              ],
+              2,
+              "Collaborative community editing "
+            ],
+            [
+              0,
+              [],
+              0,
+              "—Imagine an emergent syndication network where content creators retain ownership and value can be shared via on-chain attribution. In this case, content creators could author drafts in a private Card Deck, and submit them using Card Flow. Inside Flow, multiple users could edit, collaborate and chat, before publishing content to a public Space. Content still lives in creators’ Decks as it gets viewed, syndicated and embedded to new Spaces. If both ownership and distribution is verified on-chain, then rewards can be automatically distributed to the creators."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [
+                2,
+                2
+              ],
+              2,
+              "Trading non-fungible tokens"
+            ],
+            [
+              0,
+              [],
+              0,
+              "—"
+            ],
+            [
+              0,
+              [
+                10
+              ],
+              1,
+              "CryptoKitties"
+            ],
+            [
+              0,
+              [],
+              0,
+              " was just the beginning. Tokenized assets and NFTs have the potential to transform the way we exchange value and information, and Card UI maps precisely to what users need to organize, use, and trade their assets while maintaining clarity around ownership. Card-based design enables experiences to be built around NFTs: from something as simple as a gallery to show off your collectibles, to networks where NFTs have utility."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "I’ll expand on these ideas in an upcoming article — and talk about where we are in developing the Framework."
+            ]
+          ]
+        ]
+      ]
+    },
+    "created-date": "2019-03-18T04:39:03.241Z",
+    "published-date": null
+  },
+  "relationships": {
+    "author": {
+      "data": {
+        "type": "github-users",
+        "id": "dnaidionov"
+      }
+    },
+    "theme": {
+      "data": {
+        "type": "themes",
+        "id": "modern"
+      }
+    },
+    "readers": {
+      "data": {
+        "type": "groups",
+        "id": "github-writers"
+      }
+    },
+    "cover-image": {
+      "data": null
+    },
+    "category": {
+      "data": null
+    }
+  }
+}
