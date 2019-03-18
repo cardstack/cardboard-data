@@ -5,7 +5,6 @@
     "subhead": "How cards carry truth around the Web",
     "description": "A quick intro to some of the organization and movement principles that create order in the Cardstack Ecosystem",
     "body": {
-      "version": "0.3.1",
       "atoms": [],
       "cards": [],
       "markups": [
@@ -99,6 +98,7 @@
           ]
         ]
       ],
+      "version": "0.3.1",
       "sections": [
         [
           1,
@@ -787,7 +787,10 @@
       }
     },
     "cover-image": {
-      "data": null
+      "data": {
+        "type": "cardstack-images",
+        "id": "a271f640a3ceb600d78274387cb7dfef01b8153a"
+      }
     },
     "category": {
       "data": null
