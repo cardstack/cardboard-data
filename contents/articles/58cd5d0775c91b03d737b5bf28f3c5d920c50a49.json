@@ -3,7 +3,6 @@
     "slug": "demo",
     "title": "Snow Fever: Ultimate Fun for Snowboarders, Skiers and all Winter Enthusiasts",
     "body": {
-      "version": "0.3.1",
       "atoms": [],
       "cards": [
         [
@@ -26,6 +25,7 @@
         ]
       ],
       "markups": [],
+      "version": "0.3.1",
       "sections": [
         [
           1,
@@ -350,7 +350,7 @@
     "created-date": "2019-03-13T15:11:57.328Z",
     "subhead": null,
     "description": "Secret vacation location: Enjoy some peace and quiet, have fun and be one with nature.",
-    "published-date": "2019-03-16T01:00:15.603Z"
+    "published-date": "2019-03-18T04:36:32.488Z"
   },
   "relationships": {
     "author": {
