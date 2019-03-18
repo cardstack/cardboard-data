@@ -1,0 +1,483 @@
+{
+  "attributes": {
+    "slug": "rethinking",
+    "title": "Rethinking the Web 3.0 Experience",
+    "subhead": "‘Decentralization’ isn’t enough",
+    "body": {
+      "atoms": [],
+      "cards": [
+        [
+          "cs-mobiledoc-card",
+          {
+            "card": {
+              "id": "ba3f4bbfc2c5b0278627500080a127045377246a",
+              "type": "cardstack-image"
+            },
+            "caption": "Cardstack Project Update, November 2018"
+          }
+        ]
+      ],
+      "markups": [
+        [
+          "a",
+          [
+            "href",
+            "https://gavwood.com/dappsweb3.html",
+            "rel",
+            "nofollow noopener"
+          ]
+        ],
+        [
+          "em"
+        ],
+        [
+          "strong"
+        ],
+        [
+          "a",
+          [
+            "href",
+            "https://cardstack.com/",
+            "rel",
+            "nofollow noopener"
+          ]
+        ]
+      ],
+      "version": "0.3.1",
+      "sections": [
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Are we missing the point of Web 3.0?"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "For many of us who have already played with blockchains, there’s a deep belief that Web 3.0, or “the decentralized Internet,” is primarily a network of value, with trustless, verifiable transactions for digital assets, synchronized around global ledgers."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "The problem is, "
+            ],
+            [
+              0,
+              [
+                0
+              ],
+              1,
+              "this definition"
+            ],
+            [
+              0,
+              [],
+              0,
+              " is only narrowly applicable. Only a small part of what happens on the Internet is really just about value, and the paranoia that powers crypto culture doesn’t account for all the dimensions of how people interact with technology and each other."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "So it’s no surprise that non-crypto people find decentralized applications (dApps) sorely lacking. While technically interesting, their capabilities are typically specific to exposing blockchain-based value — and don’t have much of makes the rest of the Web compelling."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "The question we should ask is, what would improve the Web beyond “decentralization”? How do we want people to "
+            ],
+            [
+              0,
+              [
+                1
+              ],
+              1,
+              "experience"
+            ],
+            [
+              0,
+              [],
+              0,
+              " "
+            ],
+            [
+              0,
+              [
+                1
+              ],
+              1,
+              "Web 3.0"
+            ],
+            [
+              0,
+              [],
+              0,
+              "?"
+            ]
+          ]
+        ],
+        [
+          1,
+          "h3",
+          [
+            [
+              0,
+              [
+                2
+              ],
+              1,
+              "Retracing our steps"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "A better way to imagine Web 3.0 is as a combination of the Web we have today — Web 2.0, with its network effects, propagation, and ecosystem of 4.2 billion users — with the quirkiness, innovation, and individuality that made Web 1.0 special. And that means drawing upon a lot of what we already know."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "The original magic of the Web is that it is linkable, allowing things to come together. Anything can be referenced: here’s a web page, here’s a transaction on Etherscan, here’s proof that something has happened. People still rely on that URL, and that’s a great quality to build upon."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Of course, Web 1.0 was flat and static. We know what happened next: Web 2.0 giants made their fortunes by carving the Web into private interactive platforms. They fill these walled gardens with marvelous abstractions, turning data into premade units of interaction (“apps,” “friends,” “stories”) people already understand."
+            ]
+          ]
+        ],
+        [
+          1,
+          "blockquote",
+          [
+            [
+              0,
+              [],
+              0,
+              "If Web 1.0 was about links, and Web 2.0 was about objects within platforms, then Web 3.0 is about connections without intermediaries."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "The bargain is well understood: users are free to generate these objects, play with them and share them — as long as they remain within the silo. The tech giant claims the exclusive right to perform the coordination service, and the right to control its users’ security, privacy, and identity."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Network effects make it hard to escape. Not just for users, but for developers. In Web 2.0, development is extremely siloed. While there is sharing of open-source libraries, toolkits and frameworks, it’s hard to share features, which reinforces the dominance of the tech giants."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Web 3.0 is about correcting the problems of Web 2.0. But it would be a mistake to toss out Web 2.0’s key ingredient: the user experience. People want the Web to feel more real, not less. We won’t convince anyone that Web 3.0 means you now have to use a command line, and your ID is a 40-character hash. People want Web 3D: AR, VR, gamelike experiences — having physical objects, handling things, upgrading and interacting in a massively multiplayer way. That’s something we can’t ignore."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "How do we combine the best qualities from all of these perspectives? How do we build a Web that’s linkable, referenceable, feels real and interactive, and leaves control with users?"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "We don’t need to start from scratch. There’s a way to get there by reassembling the best parts of the Web we’ve already built. Let me put it this way:"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "If Web 1.0 was about links, and Web 2.0 was about objects within platforms, then Web 3.0 is about connections without intermediaries."
+            ]
+          ]
+        ],
+        [
+          1,
+          "h3",
+          [
+            [
+              0,
+              [
+                2
+              ],
+              1,
+              "The Web 3.0 data object"
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Web objects are not neutral. In Web 2.0, an object’s encoded attributes, like what platform it can run on, where it can or can’t be shared, what it can link to, where the underlying data is saved, are all designed to reinforce the values of the tech giants. The boundaries of the walled garden are silently enforced by the shape and the physics of the object itself."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "The question becomes: what is the unit of interaction within Web 3.0? To break out of Web 2.0 siloes, we need to create richer relationships between objects, with minimal intermediation."
+            ]
+          ]
+        ],
+        [
+          10,
+          0
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "We should think Web 3.0 as made of cards: universal objects representing content data, that may function alone, or come together with other cards in one workflow. They can be linked, addressed, referenced, embedded, saved, anywhere."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Beneath the surface, each object is essentially a mini Web application. It contains its own styling information, with templates so that it can be rendered beautifully with animation, and it also has JavaScript or app logic, so it contains fields, constraints and permissions."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "The object maps to a data model, so that when you or anybody takes some kind of action, that gets recorded somewhere. Whether that data is persisted on a blockchain, a cloud service, or your computer, doesn’t really matter. The objects behave the same."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "No matter where their underlying data is stored, these cards should be interoperable with other cards. They should be able to embed within each other or be composed together. They should be able to be shared, saved, and moved in and out of public and private spaces. These actions should feel as natural as manipulating an environment in a game."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "If we achieve this kind of interoperability and composability, then we no longer need to expect one app, or one platform, to “do it all,” all the time. Instead, developers would be able to create small, highly focused modules of functionality, that could be shared, curated, and improved upon. For users, these cards, representing different tools and features, could be assembled into workflows as needed, or replaced with new cards just as easily."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "Imagine building a 2D website, then later inserting some 3D features with no extra backend work. Or creating a cloud-based workflow, then swapping out its underlying database with a distributed ledger."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "The point is, if we can design the physics of Web objects to be more natural and more open, then all sorts of things we can’t do today — because we’re locked into the rules of the tech giants — will suddenly become possible. And that will let us us build a radically different kind of world."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "I hope this piece provides a starting point to think about Web 3.0 from an experience perspective. But the exciting thing is putting it into practice. Since 2014 I’ve been working on the open-source "
+            ],
+            [
+              0,
+              [
+                3
+              ],
+              1,
+              "Cardstack Project"
+            ],
+            [
+              0,
+              [],
+              0,
+              ", which is creating the Web 3.0 stack to support the creation of these objects."
+            ]
+          ]
+        ],
+        [
+          1,
+          "p",
+          [
+            [
+              0,
+              [],
+              0,
+              "In my next article, I’ll be getting more concrete and describe how we’re building all of this, and how to make it work."
+            ]
+          ]
+        ]
+      ]
+    },
+    "created-date": "2019-03-18T04:26:27.424Z",
+    "description": null,
+    "published-date": "2019-03-18T04:35:48.970Z"
+  },
+  "relationships": {
+    "cover-image": {
+      "data": {
+        "type": "cardstack-images",
+        "id": "fc281f9821dd0a8b9866b68bf70b5369d7b480eb"
+      }
+    },
+    "author": {
+      "data": {
+        "type": "github-users",
+        "id": "dnaidionov"
+      }
+    },
+    "theme": {
+      "data": {
+        "type": "themes",
+        "id": "sharp"
+      }
+    },
+    "readers": {
+      "data": {
+        "type": "groups",
+        "id": "everyone"
+      }
+    },
+    "category": {
+      "data": null
+    }
+  }
+}
