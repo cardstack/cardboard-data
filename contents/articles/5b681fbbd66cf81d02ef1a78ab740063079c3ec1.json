@@ -6,7 +6,18 @@
     "body": {
       "version": "0.3.1",
       "atoms": [],
-      "cards": [],
+      "cards": [
+        [
+          "cs-mobiledoc-card",
+          {
+            "card": {
+              "id": "ba3f4bbfc2c5b0278627500080a127045377246a",
+              "type": "cardstack-image"
+            },
+            "caption": "Cardstack Project Update, November 2018"
+          }
+        ]
+      ],
       "markups": [
         [
           "a",
@@ -22,24 +33,6 @@
         ],
         [
           "strong"
-        ],
-        [
-          "a",
-          [
-            "href",
-            "https://www.youtube.com/watch?v=lHNEG2PYky0",
-            "rel",
-            "noopener nofollow"
-          ]
-        ],
-        [
-          "a",
-          [
-            "href",
-            "https://www.youtube.com/watch?v=lHNEG2PYky0",
-            "rel",
-            "nofollow noopener"
-          ]
         ],
         [
           "a",
@@ -327,24 +320,8 @@
           ]
         ],
         [
-          1,
-          "p",
-          [
-            [
-              0,
-              [
-                3
-              ],
-              1,
-              "Cardstack Project Update"
-            ],
-            [
-              0,
-              [],
-              0,
-              ", November 2018"
-            ]
-          ]
+          10,
+          0
         ],
         [
           1,
@@ -367,31 +344,6 @@
               [],
               0,
               "Beneath the surface, each object is essentially a mini Web application. It contains its own styling information, with templates so that it can be rendered beautifully with animation, and it also has JavaScript or app logic, so it contains fields, constraints and permissions."
-            ]
-          ]
-        ],
-        [
-          1,
-          "p",
-          []
-        ],
-        [
-          1,
-          "p",
-          [
-            [
-              0,
-              [
-                4
-              ],
-              1,
-              "Cardstack Project Update"
-            ],
-            [
-              0,
-              [],
-              0,
-              ", November 2018"
             ]
           ]
         ],
@@ -468,7 +420,7 @@
             [
               0,
               [
-                5
+                3
               ],
               1,
               "Cardstack Project"
