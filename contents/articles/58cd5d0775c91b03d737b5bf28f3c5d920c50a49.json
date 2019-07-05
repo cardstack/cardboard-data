@@ -3,6 +3,7 @@
     "slug": "demo",
     "title": "Snow Fever: Ultimate Fun for Snowboarders, Skiers and all Winter Enthusiasts",
     "body": {
+      "version": "0.3.1",
       "atoms": [],
       "cards": [
         [
@@ -25,7 +26,6 @@
         ]
       ],
       "markups": [],
-      "version": "0.3.1",
       "sections": [
         [
           1,
@@ -35,7 +35,7 @@
               0,
               [],
               0,
-              "“I see nothing but the sky above me, the clouds below me, and masses of snow in between… I’m on top of the world!” says Tim Snowfreak, former winner of the Snowboarding in Strange Places World Championship, amazed at his surroundings as if this were his first day in these high, snow-covered mountains."
+              "“I see nothing but the sky above me, the clouds below me, and masses of snow in between… I’m on top of the world!” says Tim Snowfreak, former winner of the Snowboarding in Strange Places World Championship, amazed at his surroundings as if this were his first day in these high, snow-covered mountains tops."
             ]
           ]
         ],
